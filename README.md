@@ -40,4 +40,8 @@ s.no|Name|Designation
 4|J-Hope|Rapper,DanceL
 5|JIMIN|Vocalist,MDancer
 6|V|Vocalist,visual
-7|JK|MVocalist
+7|JungKook|MVocalist
+
+💜:purple_heart::purple_heart::purple_heart::purple_heart::purple_heart::purple_heart:
+
+~~BYE~~
